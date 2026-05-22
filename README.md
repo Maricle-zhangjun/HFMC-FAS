@@ -10,3 +10,18 @@ With the widespread use of face recognition, Face Anti-Spoofing (FAS) has gained
 <div align="center">
     <img src="Fig/Framework.jpg" height="430px" />
 </div>
+
+## ✏️ Citation
+If you find this work useful for your research, please feel free to leave a star⭐️ and cite our paper:
+
+```bibtex
+@INPROCEEDINGS{11463904,
+  author={Zhang, Jun and Shen, Jia and Wang, Hui and Liu, Jiahua and Gao, Yixing and Feng, Shu and Li, Dongxi and Zhou, Daoxiang},
+  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Heterogeneous Feature Mutual-Calibration Assisted Online Distillation for Efficient Face Anti-Spoofing}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={14317-14321},
+  doi={10.1109/ICASSP55912.2026.11463904}}
+```
