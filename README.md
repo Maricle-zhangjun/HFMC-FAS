@@ -1,6 +1,6 @@
 # HFMC-FAS
 
-Official repository for the article "Heterogeneous Feature Mutual-Calibration Assisted Online Distillation for Efficient Face Anti-Spoofing", which has been accepted at ICASSP 2026.
+Official repository for the article "Heterogeneous Feature Mutual-Calibration Assisted Online Distillation for Efficient Face Anti-Spoofing", which has been accepted at ICASSP 2026 and can be found [here](https://ieeexplore.ieee.org/document/11463904).
 
 ---
 
